@@ -1,0 +1,5 @@
+workspace {
+  uid = "a27c4aa2-a048-440b-b0d6-eea364f9e695"
+  name = "gwr-cicd1"
+  staleStateThresholdMinutes = undefined
+}
