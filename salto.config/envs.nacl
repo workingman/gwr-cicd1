@@ -1,4 +1,16 @@
 envs {
   envs = [
+    {
+      name = "gwr-s-zen-sb"
+      accountToServiceName = {
+        zendesk = "zendesk"
+      }
+    },
+    {
+      name = "gwr-s-zen-prod"
+      accountToServiceName = {
+        zendesk = "zendesk"
+      }
+    },
   ]
 }

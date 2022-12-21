@@ -1,4 +1,12 @@
 envs {
   envsCloud = [
+    {
+      uuid = "e505022e-3587-4a57-8f49-50e18b2e6cef"
+      folderName = "gwr-s-zen-sb"
+    },
+    {
+      uuid = "605f5024-6ccc-4fbe-868f-e58e5f9b28b1"
+      folderName = "gwr-s-zen-prod"
+    },
   ]
 }
