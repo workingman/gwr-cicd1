@@ -20,6 +20,6 @@ jobs:
         run: |
           cd salto-saas-cli
           tar xf linux-x64.tar
-          ./saas-cli deploy --git-repo workingman/gwr-cicd --branch-name master -p github --commit-message "statefile update post deploy to d3v-salto" --env-id 3ab0fb5b-95a7-497b-836a-2583702766e1 --accounts zendesk
+          ./saas-cli deploy --git-repo workingman/gwr-cicd --branch-name master -p github --commit-message "statefile update post deploy to d3v-salto" --env-id 605f5024-6ccc-4fbe-868f-e58e5f9b28b1 --accounts zendesk
         env: 
           API_TOKEN: ${{ secrets.SALTO_API_TOKEN }}
